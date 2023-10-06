@@ -1,0 +1,24 @@
+.homepage {
+    height: calc(100% - 6.5rem - 5.8rem);
+}
+
+.contact-info {
+    font-size: 10px;
+    text-align: center;
+    a {
+      text-decoration: none;
+      color: #007bff;
+      margin: 0 5px;
+    }
+  }
+
+  .social-links {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 10px;
+    a {
+      text-decoration: none;
+      color: #007bff;
+      margin: 0 10px;
+    }
+  }
